@@ -11,8 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis with Wazuh          | <a href="https://google.com">Detection Lab</a>|
-|Black-Box Penetration Testing   | <a href="https://google.com">Penetration Testing Lab</a>|
+| SIEM Implementation and Log Analysis with Wazuh          | <a href="https://github.com/aubryl29/Detection-Lab/tree/main">Detection Lab</a>|
+|Black-Box Penetration Testing   | Penetration Testing Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Digital Forensics      | Forensics Lab|
 
